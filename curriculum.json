@@ -1,0 +1,74 @@
+{
+  "stages": [
+    {
+      "id": 1,
+      "name": "Core Verbs & Pronouns",
+      "goal": "Produce basic 'Subject + verb + object' sentences using core action verbs and pronouns",
+      "grammar_focus": "Vietnamese sentence order is Subject + Verb + Object, same as English. Negation: add 'không' before the verb.",
+      "vocab_groups": ["core verbs", "pronouns", "basic greetings", "basic adjectives"],
+      "core_vocab": ["Đi", "Đến", "Ăn", "Uống", "Học", "Làm", "Ngủ", "Nói", "Nghe", "Đọc", "Viết", "Xem", "Chạy", "Bơi", "Lái xe", "Mua", "Bán", "Gặp", "Thích", "Muốn", "Cần", "Biết", "Hiểu", "Yêu", "Tôi", "Bạn", "Chúng ta", "Không"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-1-verbs.md"
+    },
+    {
+      "id": 2,
+      "name": "Numbers & Time",
+      "goal": "Produce sentences with numbers, days of the week, months, and time expressions",
+      "grammar_focus": "Time expressions typically come at the start or end of a sentence. 'Vào' means 'on' for days/months. Time: [number] + giờ.",
+      "vocab_groups": ["numbers", "days of week", "months", "time words"],
+      "core_vocab": ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Trăm", "Nghìn", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật", "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy", "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai", "Ngày hôm nay", "Ngày mai", "Hôm qua", "giờ", "phút", "Vào"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-2-numbers-time.md"
+    },
+    {
+      "id": 3,
+      "name": "Question Words",
+      "goal": "Form correct questions using Vietnamese question words with proper placement",
+      "grammar_focus": "Question word placement rules: When (khi nào) — start or end. Why (tại sao) — start. Who (ai) — end if verb present, before noun if no verb. What (gì) — end. How (thế nào) — end. Where (ở đâu) — end. Yes/no questions: Bạn có [verb] không?",
+      "vocab_groups": ["question words", "question patterns"],
+      "core_vocab": ["Khi nào", "Bao giờ", "Tại sao", "Vì sao", "Ai", "Cái gì", "Gì", "Thế nào", "Như thế nào", "Ở đâu", "Đâu", "Bao nhiêu tiền", "Bao nhiêu", "Mấy giờ", "Bao xa", "Bao lâu", "Bao nhiêu tuổi"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-3-questions.md"
+    },
+    {
+      "id": 4,
+      "name": "Tense Markers",
+      "goal": "Produce past, present-continuous, and future sentences using đã / đang / sẽ",
+      "grammar_focus": "Vietnamese tense markers come BEFORE the main verb. Đã = past (already done). Đang = present continuous (currently happening). Sẽ = future (will happen). 'Rồi' at the end strengthens past completion: Tôi đã ăn rồi.",
+      "vocab_groups": ["tense markers"],
+      "core_vocab": ["Đã", "Đang", "Sẽ", "Rồi"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-4-tenses.md"
+    },
+    {
+      "id": 5,
+      "name": "Connectors",
+      "goal": "Produce compound and causal sentences using conjunctions and connective words",
+      "grammar_focus": "Conjunctions mostly follow English word order. 'Nếu' (if) begins a clause. 'Nên' means both 'so' (consequence) and 'should'. 'Sau đó' is always between two complete clauses.",
+      "vocab_groups": ["conjunctions", "connectors"],
+      "core_vocab": ["Nhưng", "Và", "Vì", "Bởi vì", "Nên", "Vậy", "Sau đó", "Sau khi", "Cũng", "Ngoài ra", "Với", "Nếu", "Hoặc", "Hay"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-5-connectors.md"
+    },
+    {
+      "id": 6,
+      "name": "Descriptive Vocabulary",
+      "goal": "Produce descriptive sentences about colors, weather, seasons, and emotions",
+      "grammar_focus": "Adjectives in Vietnamese follow the noun they modify: 'hoa đỏ' (red flower), not 'đỏ hoa'. Weather: 'Trời + [adjective]' or 'Có + [noun]'. Emotions: Subject + [emotion word], no 'to be' needed.",
+      "vocab_groups": ["colors", "weather", "seasons", "emotions"],
+      "core_vocab": ["Màu đỏ", "Màu vàng", "Màu xanh lá", "Màu xanh dương", "Màu hồng", "Màu tím", "Màu cam", "Màu xám", "Màu nâu", "Màu trắng", "Màu đen", "Có nắng", "Nhiều mây", "Có mưa", "Có tuyết", "Có bão", "Nóng", "Lạnh", "Mùa thu", "Mùa đông", "Mùa hè", "Mùa xuân", "Hạnh phúc", "Buồn bã", "Tức giận", "Sợ hãi", "Hào hứng", "Hồi hộp", "Mệt mỏi", "Bình tĩnh"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-6-descriptive.md"
+    },
+    {
+      "id": 7,
+      "name": "Free Composition",
+      "goal": "Produce complex multi-clause sentences and short paragraphs drawing on all previous vocabulary",
+      "grammar_focus": "Review of all previous grammar. Focus on combining tense markers + connectors + descriptive vocab in one sentence. Practice maintaining correct word order across clause boundaries.",
+      "vocab_groups": ["all"],
+      "core_vocab": [],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-7-composition.md"
+    }
+  ]
+}
