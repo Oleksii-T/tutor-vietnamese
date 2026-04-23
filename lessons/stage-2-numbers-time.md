@@ -51,6 +51,8 @@
 | Minute | Phút |
 | On (day/month) | Vào |
 | Have | Có |
+| Usually | Thường |
+| Every time | Mỗi lần |
 
 ## Sentence Templates
 
@@ -70,6 +72,8 @@
 | Yesterday | Hôm qua |
 | Tomorrow | Ngày mai |
 | Three o'clock | Ba giờ |
+| Usually | Thường |
+| Every time | Mỗi lần |
 
 ### Tier 2 — Simple sentence with time/number
 
@@ -85,6 +89,8 @@
 | There are ten students | Có mười học sinh |
 | In January it is cold | Vào tháng Một trời lạnh |
 | I was born in March | Tôi sinh vào tháng Ba |
+| I usually wake up at seven | Tôi thường thức dậy vào lúc bảy giờ |
+| Every time I go, I buy something | Mỗi lần tôi đi, tôi mua gì đó |
 
 ### Tier 3 — Fuller sentence with multiple time/number elements
 
@@ -97,3 +103,5 @@
 | I wake up at six o'clock every day | Tôi thức dậy vào lúc sáu giờ mỗi ngày |
 | The meeting is at nine o'clock on Thursday | Cuộc họp vào lúc chín giờ Thứ Năm |
 | In November and December it is cold in Hanoi | Vào tháng Mười Một và tháng Mười Hai Hà Nội lạnh |
+| I usually go to the park on Sunday | Tôi thường đi công viên vào Chủ Nhật |
+| Every time I come here I buy ten books | Mỗi lần tôi đến đây tôi mua mười cuốn sách |

@@ -28,6 +28,8 @@
 | Next | Tiếp theo |
 | Continue | Tiếp tục |
 | Like / As | Như |
+| For / To | Cho |
+| Together / With | Cùng |
 
 ## Sentence Templates
 
@@ -45,6 +47,8 @@
 | If | Nếu |
 | Or | Hoặc |
 | Still | Vẫn |
+| For | Cho |
+| Together | Cùng |
 
 ### Tier 2 — Compound sentence using one connector
 
@@ -61,6 +65,8 @@
 | If you go, I will go too | Nếu bạn đi, tôi cũng sẽ đi |
 | Do you want tea or coffee? | Bạn muốn trà hay cà phê? |
 | I am still studying | Tôi vẫn đang học |
+| I bought this for you | Tôi mua cái này cho bạn |
+| We go together | Chúng ta cùng đi |
 
 ### Tier 3 — Complex sentence with multiple connectors
 
@@ -73,3 +79,5 @@
 | I am tired and hungry, so I will eat and then sleep | Tôi mệt và đói, nên tôi sẽ ăn rồi ngủ |
 | Because I study every day, I am getting better and better | Vì tôi học mỗi ngày, tôi ngày càng giỏi hơn |
 | If it is sunny tomorrow, I will go to the park with you | Nếu ngày mai trời nắng, tôi sẽ đi công viên với bạn |
+| I bought coffee for you because you helped me | Tôi mua cà phê cho bạn vì bạn đã giúp tôi |
+| If you go, we will all go together | Nếu bạn đi, chúng ta sẽ cùng đi |

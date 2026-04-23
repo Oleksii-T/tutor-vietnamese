@@ -6,7 +6,7 @@
       "goal": "Produce basic 'Subject + verb + object' sentences using core action verbs and pronouns",
       "grammar_focus": "Vietnamese sentence order is Subject + Verb + Object, same as English. Negation: add 'không' before the verb.",
       "vocab_groups": ["core verbs", "pronouns", "basic greetings", "basic adjectives"],
-      "core_vocab": ["Đi", "Đến", "Ăn", "Uống", "Học", "Làm", "Ngủ", "Nói", "Nghe", "Đọc", "Viết", "Xem", "Chạy", "Bơi", "Lái xe", "Mua", "Bán", "Gặp", "Thích", "Muốn", "Cần", "Biết", "Hiểu", "Yêu", "Tôi", "Bạn", "Chúng ta", "Không"],
+      "core_vocab": ["Đi", "Đến", "Ăn", "Uống", "Học", "Làm", "Ngủ", "Nói", "Nghe", "Đọc", "Viết", "Xem", "Chạy", "Bơi", "Lái xe", "Mua", "Bán", "Gặp", "Thích", "Muốn", "Cần", "Biết", "Hiểu", "Yêu", "Tôi", "Bạn", "Chúng ta", "Không", "Sống"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-1-verbs.md"
     },
@@ -16,7 +16,7 @@
       "goal": "Produce sentences with numbers, days of the week, months, and time expressions",
       "grammar_focus": "Time expressions typically come at the start or end of a sentence. 'Vào' means 'on' for days/months. Time: [number] + giờ.",
       "vocab_groups": ["numbers", "days of week", "months", "time words"],
-      "core_vocab": ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Trăm", "Nghìn", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật", "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy", "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai", "Ngày hôm nay", "Ngày mai", "Hôm qua", "giờ", "phút", "Vào"],
+      "core_vocab": ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Trăm", "Nghìn", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật", "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy", "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai", "Ngày hôm nay", "Ngày mai", "Hôm qua", "giờ", "phút", "Vào", "Thường", "Mỗi lần"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-2-numbers-time.md"
     },
@@ -46,7 +46,7 @@
       "goal": "Produce compound and causal sentences using conjunctions and connective words",
       "grammar_focus": "Conjunctions mostly follow English word order. 'Nếu' (if) begins a clause. 'Nên' means both 'so' (consequence) and 'should'. 'Sau đó' is always between two complete clauses.",
       "vocab_groups": ["conjunctions", "connectors"],
-      "core_vocab": ["Nhưng", "Và", "Vì", "Bởi vì", "Nên", "Vậy", "Sau đó", "Sau khi", "Cũng", "Ngoài ra", "Với", "Nếu", "Hoặc", "Hay"],
+      "core_vocab": ["Nhưng", "Và", "Vì", "Bởi vì", "Nên", "Vậy", "Sau đó", "Sau khi", "Cũng", "Ngoài ra", "Với", "Nếu", "Hoặc", "Hay", "Cho", "Cùng"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-5-connectors.md"
     },
@@ -69,6 +69,26 @@
       "core_vocab": [],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-7-composition.md"
+    },
+    {
+      "id": 8,
+      "name": "Places & Daily Life",
+      "goal": "Describe where you live, how far places are, and talk about everyday situations like visiting and birthdays",
+      "grammar_focus": "Location: 'Ở' before place means 'at/in'. Distance: A + cách + B + [number + unit] (e.g. Nhà tôi cách đây 5km). 'Gần' (near) and 'Đó' (there) follow the noun or stand alone. 'Về thăm' is a fixed phrase meaning to return for a visit.",
+      "vocab_groups": ["places", "daily life"],
+      "core_vocab": ["Thành phố", "Gần", "Chỗ", "Nơi", "Người", "Gặp nhau", "Cách", "Về thăm", "Đó", "Ở", "Sinh nhật"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-8-places.md"
+    },
+    {
+      "id": 9,
+      "name": "Family & Relationships",
+      "goal": "Name family members and close relationships, and use kin terms as pronouns in conversation",
+      "grammar_focus": "Vietnamese kin terms double as pronouns: speak to parents as 'Con' (I) + 'Ba/Mẹ' (you). Possessives: [kin term] + 'của' + [pronoun], often shortened: 'mẹ tôi' (my mother). Extended family uses paternal/maternal suffixes: nội = dad's side, ngoại = mom's side.",
+      "vocab_groups": ["family", "relationships"],
+      "core_vocab": ["Ba", "Mẹ", "Con trai", "Con gái", "Anh trai", "Em trai", "Em gái", "Chị gái", "Ông bà", "Ông", "Bà", "Ông ngoại", "Ông nội", "Bà nội", "Bà ngoại", "Chú", "Bác", "Cô", "Dì", "Gia đình", "Thành viên", "Họ hàng", "Anh chị em họ", "Cháu trai", "Cháu gái", "Chồng", "Vợ", "Bạn gái", "Bạn trai", "Bạn thân", "Anh chị em ruột"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-9-family.md"
     }
   ]
 }

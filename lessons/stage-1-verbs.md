@@ -55,6 +55,7 @@
 | Park | Công viên |
 | Book | Sách |
 | House | Nhà |
+| Live / Be alive | Sống |
 
 ## Sentence Templates
 
@@ -63,6 +64,7 @@
 | English | Vietnamese |
 |---|---|
 | Hello | Xin chào |
+| Live | Sống |
 | Thank you | Cảm ơn |
 | Goodbye | Tạm biệt |
 | Sorry | Xin lỗi |
@@ -93,6 +95,7 @@
 | I don't understand | Tôi không hiểu |
 | We go | Chúng ta đi |
 | Nice to meet you | Rất vui được gặp bạn |
+| I live here | Tôi sống ở đây |
 
 ### Tier 3 — Fuller sentence or context-rich phrase
 
@@ -108,3 +111,4 @@
 | I love you | Tôi yêu bạn |
 | I want to read this book | Tôi muốn đọc cuốn sách này |
 | You need to listen | Bạn cần nghe |
+| I want to live in Vietnam | Tôi muốn sống ở Việt Nam |
