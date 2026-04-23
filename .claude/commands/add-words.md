@@ -36,20 +36,35 @@ If a word does not fit any existing stage, group it with other unplaced words an
 
 ---
 
-## Step 3 — Update `curriculum.json`
+## Step 3 — Classify each word: core or supporting
 
-For each affected stage, append the new Vietnamese words to its `core_vocab` array. Before adding, check if the Vietnamese word is already present. If it is, skip the word entirely — do not update `curriculum.json` or the lesson file for it, and mention it in the final summary as "already exists, skipped".
+For each new word, decide whether it is **core** or **supporting**:
+
+- **Core** — central to the stage's learning goal. The learner must master it to progress. Examples: action verbs in Stage 1, question words in Stage 3, tense markers in Stage 4.
+- **Supporting** — useful context but not essential to the stage goal. Typically nouns or adjectives that appear in sentences but aren't what the stage is teaching. Example: "park" (Công viên) in Stage 1 — it appears in a sentence but the stage is about verbs, not places.
+
+Use this rule of thumb: if removing the word would leave a gap in the stage's core skill, it's core. If it just enriches a sentence, it's supporting.
 
 ---
 
-## Step 4 — Update the lesson file for each affected stage
+## Step 4 — Update `curriculum.json`
 
-Read the existing lesson file for the stage (path is in `curriculum.json` → `lesson_file`). Make the following additions:
+For **core words only**: append the Vietnamese word to the stage's `core_vocab` array.
 
-### 4a — Vocabulary table
-Add a new row for each new word under the `## Vocabulary` section.
+Before adding, check if the Vietnamese word is already present in `core_vocab`. If it is, skip it entirely — do not update `curriculum.json` or the lesson file for it, and mention it in the final summary as "already exists, skipped".
 
-### 4b — Practice sentences
+Supporting words are **not** added to `core_vocab`.
+
+---
+
+## Step 5 — Update the lesson file for each affected stage
+
+All new words — both core and supporting — go into the lesson file. Read the existing lesson file for the stage (path is in `curriculum.json` → `lesson_file`). Make the following additions:
+
+### 5a — Vocabulary table
+Add a new row for each new word (core and supporting) under the `## Vocabulary` section.
+
+### 5b — Practice sentences
 Add sentences that use the new words across all three tiers:
 
 - **Tier 1**: Single word or very short phrase (just the word itself, or a 2-word phrase)
@@ -60,11 +75,11 @@ Aim for at least 1 sentence per tier per new word. Make sure sentences are reali
 
 ---
 
-## Step 5 — If a new stage is needed
+## Step 6 — If a new stage is needed
 
 Only do this if Step 2 identified words that don't fit any existing stage.
 
-### 5a — Add the stage to `curriculum.json`
+### 6a — Add the stage to `curriculum.json`
 Append a new entry to the `stages` array:
 
 ```json
@@ -80,7 +95,7 @@ Append a new entry to the `stages` array:
 }
 ```
 
-### 5b — Create the lesson file
+### 6b — Create the lesson file
 Create `lessons/stage-<N>-<slug>.md` with this structure:
 
 ```markdown
@@ -122,7 +137,7 @@ Aim for at least 5 Tier 1, 8 Tier 2, and 8 Tier 3 sentences so the tutor has eno
 
 ---
 
-## Step 6 — Confirm to the user
+## Step 7 — Confirm to the user
 
 After all edits are done, summarise what was changed:
 
