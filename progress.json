@@ -1,21 +1,21 @@
 {
   "current_stage": 1,
-  "sessions_total": 1,
+  "sessions_total": 2,
   "streak_days": 1,
   "last_session": "2026-04-23",
   "weak_patterns": ["tone marks", "verb confusion"],
   "words": {
     "Xin chào": { "familiarity": 1, "last_seen": "2026-04-23" },
-    "Cảm ơn": { "familiarity": 2, "last_seen": "2026-04-23" },
-    "Tạm biệt": { "familiarity": 1, "last_seen": "2026-04-23" },
+    "Cảm ơn": { "familiarity": 3, "last_seen": "2026-04-23" },
+    "Tạm biệt": { "familiarity": 2, "last_seen": "2026-04-23" },
     "Xin lỗi": { "familiarity": 0, "last_seen": "2026-04-23" },
-    "Uống": { "familiarity": 0, "last_seen": "2026-04-23" },
-    "Nước": { "familiarity": 0, "last_seen": "2026-04-23" },
+    "Uống": { "familiarity": 1, "last_seen": "2026-04-23" },
+    "Nước": { "familiarity": 2, "last_seen": "2026-04-23" },
     "Học": { "familiarity": 0, "last_seen": "2026-04-23" },
-    "Hiểu": { "familiarity": 2, "last_seen": "2026-04-23" },
-    "Không": { "familiarity": 2, "last_seen": "2026-04-23" },
-    "Đẹp": { "familiarity": 0, "last_seen": "2026-04-23" },
-    "Thích": { "familiarity": 2, "last_seen": "2026-04-23" },
+    "Hiểu": { "familiarity": 3, "last_seen": "2026-04-23" },
+    "Không": { "familiarity": 3, "last_seen": "2026-04-23" },
+    "Đẹp": { "familiarity": 1, "last_seen": "2026-04-23" },
+    "Thích": { "familiarity": 1, "last_seen": "2026-04-23" },
     "Bơi": { "familiarity": 2, "last_seen": "2026-04-23" },
     "Cần": { "familiarity": 0, "last_seen": "2026-04-23" },
     "Tiếng Việt": { "familiarity": 0, "last_seen": "2026-04-23" },
@@ -23,6 +23,7 @@
     "Đi": { "familiarity": 2, "last_seen": "2026-04-23" },
     "Yêu": { "familiarity": 0, "last_seen": "2026-04-23" },
     "Tôi": { "familiarity": 2, "last_seen": "2026-04-23" },
-    "Bạn": { "familiarity": 2, "last_seen": "2026-04-23" }
+    "Bạn": { "familiarity": 1, "last_seen": "2026-04-23" },
+    "Đói": { "familiarity": 0, "last_seen": "2026-04-23" }
   }
 }
