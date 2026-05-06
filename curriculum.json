@@ -6,7 +6,7 @@
       "goal": "Produce basic 'Subject + verb + object' sentences using core action verbs and pronouns",
       "grammar_focus": "Vietnamese sentence order is Subject + Verb + Object, same as English. Negation: add 'không' before the verb.",
       "vocab_groups": ["core verbs", "pronouns", "basic greetings", "basic adjectives"],
-      "core_vocab": ["Đi", "Đến", "Ăn", "Uống", "Học", "Làm", "Ngủ", "Nói", "Nghe", "Đọc", "Viết", "Xem", "Chạy", "Bơi", "Lái xe", "Mua", "Bán", "Gặp", "Thích", "Muốn", "Cần", "Biết", "Hiểu", "Yêu", "Tôi", "Bạn", "Chúng ta", "Không", "Sống"],
+      "core_vocab": ["Đi", "Đến", "Ăn", "Uống", "Học", "Làm", "Ngủ", "Nói", "Nghe", "Đọc", "Viết", "Xem", "Chạy", "Bơi", "Lái xe", "Mua", "Bán", "Gặp", "Thích", "Muốn", "Cần", "Biết", "Hiểu", "Yêu", "Tôi", "Bạn", "Chúng ta", "Không", "Sống", "Nhìn thấy", "Cảm thấy"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-1-verbs.md"
     },
@@ -16,7 +16,7 @@
       "goal": "Produce sentences with numbers, days of the week, months, and time expressions",
       "grammar_focus": "Time expressions typically come at the start or end of a sentence. 'Vào' means 'on' for days/months. Time: [number] + giờ.",
       "vocab_groups": ["numbers", "days of week", "months", "time words"],
-      "core_vocab": ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Trăm", "Nghìn", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật", "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy", "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai", "Ngày hôm nay", "Ngày mai", "Hôm qua", "giờ", "phút", "Vào", "Thường", "Mỗi lần"],
+      "core_vocab": ["Một", "Hai", "Ba", "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín", "Mười", "Trăm", "Nghìn", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật", "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy", "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai", "Ngày hôm nay", "Ngày mai", "Hôm qua", "giờ", "phút", "Vào", "Thường", "Mỗi lần", "Tháng này", "Tháng trước", "Tháng sau", "Tuần", "Cuối tuần", "Tuần này", "Tuần trước", "Tuần sau", "Năm này", "Năm trước", "Năm sau", "Hôm nay", "Tối nay", "Lâu"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-2-numbers-time.md"
     },
@@ -36,7 +36,7 @@
       "goal": "Produce past, present-continuous, and future sentences using đã / đang / sẽ",
       "grammar_focus": "Vietnamese tense markers come BEFORE the main verb. Đã = past (already done). Đang = present continuous (currently happening). Sẽ = future (will happen). 'Rồi' at the end strengthens past completion: Tôi đã ăn rồi.",
       "vocab_groups": ["tense markers"],
-      "core_vocab": ["Đã", "Đang", "Sẽ", "Rồi"],
+      "core_vocab": ["Đã", "Đang", "Sẽ", "Rồi", "Chưa"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-4-tenses.md"
     },
@@ -46,7 +46,7 @@
       "goal": "Produce compound and causal sentences using conjunctions and connective words",
       "grammar_focus": "Conjunctions mostly follow English word order. 'Nếu' (if) begins a clause. 'Nên' means both 'so' (consequence) and 'should'. 'Sau đó' is always between two complete clauses.",
       "vocab_groups": ["conjunctions", "connectors"],
-      "core_vocab": ["Nhưng", "Và", "Vì", "Bởi vì", "Nên", "Vậy", "Sau đó", "Sau khi", "Cũng", "Ngoài ra", "Với", "Nếu", "Hoặc", "Hay", "Cho", "Cùng"],
+      "core_vocab": ["Nhưng", "Và", "Vì", "Bởi vì", "Nên", "Vậy", "Sau đó", "Sau khi", "Cũng", "Ngoài ra", "Với", "Nếu", "Hoặc", "Hay", "Cho", "Cùng", "Bằng", "Được"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-5-connectors.md"
     },
@@ -55,8 +55,8 @@
       "name": "Descriptive Vocabulary",
       "goal": "Produce descriptive sentences about colors, weather, seasons, and emotions",
       "grammar_focus": "Adjectives in Vietnamese follow the noun they modify: 'hoa đỏ' (red flower), not 'đỏ hoa'. Weather: 'Trời + [adjective]' or 'Có + [noun]'. Emotions: Subject + [emotion word], no 'to be' needed.",
-      "vocab_groups": ["colors", "weather", "seasons", "emotions"],
-      "core_vocab": ["Màu đỏ", "Màu vàng", "Màu xanh lá", "Màu xanh dương", "Màu hồng", "Màu tím", "Màu cam", "Màu xám", "Màu nâu", "Màu trắng", "Màu đen", "Có nắng", "Nhiều mây", "Có mưa", "Có tuyết", "Có bão", "Nóng", "Lạnh", "Mùa thu", "Mùa đông", "Mùa hè", "Mùa xuân", "Hạnh phúc", "Buồn bã", "Tức giận", "Sợ hãi", "Hào hứng", "Hồi hộp", "Mệt mỏi", "Bình tĩnh"],
+      "vocab_groups": ["colors", "weather", "seasons", "emotions", "general adjectives"],
+      "core_vocab": ["Màu đỏ", "Màu vàng", "Màu xanh lá", "Màu xanh dương", "Màu hồng", "Màu tím", "Màu cam", "Màu xám", "Màu nâu", "Màu trắng", "Màu đen", "Có nắng", "Nhiều mây", "Có mưa", "Có tuyết", "Có bão", "Nóng", "Lạnh", "Mùa thu", "Mùa đông", "Mùa hè", "Mùa xuân", "Hạnh phúc", "Buồn bã", "Tức giận", "Sợ hãi", "Hào hứng", "Hồi hộp", "Mệt mỏi", "Bình tĩnh", "Trời mưa", "Mưa", "Thời tiết", "Bận", "Bận rộn", "Muộn", "Vui", "Buồn", "Dễ", "Khó", "Rảnh", "Giàu", "Nghèo", "Mạnh", "Yếu", "Đầy", "Trống rỗng", "Lịch sự", "Thô lỗ", "Tự tin", "Nhút nhát", "Sạch sẽ", "Bẩn", "An toàn", "Nguy hiểm", "May mắn", "Xui xẻo", "Thú vị", "Chán", "To", "Nhỏ", "Nhiều", "Ít", "Dài", "Ngắn", "Xa", "Đắt", "Rẻ", "Rộng", "Chật", "Cao", "Thấp", "Béo", "Gầy", "Nhanh", "Chậm", "Mới", "Cũ", "Trẻ", "Già"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-6-descriptive.md"
     },
@@ -76,7 +76,7 @@
       "goal": "Describe where you live, how far places are, and talk about everyday situations like visiting and birthdays",
       "grammar_focus": "Location: 'Ở' before place means 'at/in'. Distance: A + cách + B + [number + unit] (e.g. Nhà tôi cách đây 5km). 'Gần' (near) and 'Đó' (there) follow the noun or stand alone. 'Về thăm' is a fixed phrase meaning to return for a visit.",
       "vocab_groups": ["places", "daily life"],
-      "core_vocab": ["Thành phố", "Gần", "Chỗ", "Nơi", "Người", "Gặp nhau", "Cách", "Về thăm", "Đó", "Ở", "Sinh nhật"],
+      "core_vocab": ["Thành phố", "Gần", "Chỗ", "Nơi", "Người", "Gặp nhau", "Cách", "Về thăm", "Đó", "Ở", "Sinh nhật", "Trong", "Ở đây", "Ở bên cạnh", "Ở dưới"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-8-places.md"
     },
@@ -89,6 +89,26 @@
       "core_vocab": ["Ba", "Mẹ", "Con trai", "Con gái", "Anh trai", "Em trai", "Em gái", "Chị gái", "Ông bà", "Ông", "Bà", "Ông ngoại", "Ông nội", "Bà nội", "Bà ngoại", "Chú", "Bác", "Cô", "Dì", "Gia đình", "Thành viên", "Họ hàng", "Anh chị em họ", "Cháu trai", "Cháu gái", "Chồng", "Vợ", "Bạn gái", "Bạn trai", "Bạn thân", "Anh chị em ruột"],
       "progression_threshold": 4.0,
       "lesson_file": "lessons/stage-9-family.md"
+    },
+    {
+      "id": 10,
+      "name": "Transportation & Travel",
+      "goal": "Name common vehicles and travel-related places, and describe how to get somewhere",
+      "grammar_focus": "Travel by vehicle: 'Đi + bằng + [vehicle]' (go by motorbike). Destination: 'Đến + [place]'. Location: 'Ở + [place]' (at the airport).",
+      "vocab_groups": ["transportation", "travel"],
+      "core_vocab": ["Vé", "Máy bay", "Sân bay", "Xe máy"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-10-transportation.md"
+    },
+    {
+      "id": 11,
+      "name": "Everyday Nouns & Objects",
+      "goal": "Name common everyday objects, foods, and occupations encountered in daily life",
+      "grammar_focus": "Classifiers: 'cái' for most objects (cái áo, cái cây), 'chiếc' for wearable/paired items (chiếc váy). Occupation: Subject + là + [job]. Food: Ăn + [food].",
+      "vocab_groups": ["everyday objects", "food", "occupations", "places"],
+      "core_vocab": ["Cái áo", "Chiếc váy", "Lẩu", "Cái cây", "Điện thoại", "Kế hoạch", "Bác sĩ", "Tây Ban Nha"],
+      "progression_threshold": 4.0,
+      "lesson_file": "lessons/stage-11-everyday-nouns.md"
     }
   ]
 }

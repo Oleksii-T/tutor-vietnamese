@@ -22,6 +22,10 @@
 | There | Đó |
 | Stay / Live at | Ở |
 | Birthday | Sinh nhật |
+| In / Inside | Trong |
+| Here | Ở đây |
+| Next to | Ở bên cạnh |
+| Under / Below | Ở dưới |
 
 ## Sentence Templates
 
@@ -39,6 +43,10 @@
 | Meet each other | Gặp nhau |
 | Stay here | Ở đây |
 | Come back visiting | Về thăm |
+| Here | Ở đây |
+| In / Inside | Trong |
+| Next to | Ở bên cạnh |
+| Under | Ở dưới |
 
 ### Tier 2 — Simple full sentence, one grammar pattern
 
@@ -52,6 +60,11 @@
 | There is a good place near here | Có một chỗ tốt gần đây |
 | Many people live in the city | Nhiều người sống ở thành phố |
 | My house is 5km from here | Nhà tôi cách đây 5km |
+| I am here | Tôi ở đây |
+| The book is inside the bag | Cuốn sách ở trong túi |
+| She is sitting next to the tree | Cô ấy ngồi ở bên cạnh cái cây |
+| The phone is under the book | Điện thoại ở dưới cuốn sách |
+| Meet me here | Gặp nhau ở đây |
 
 ### Tier 3 — Fuller sentence or context-rich phrase
 
@@ -65,3 +78,6 @@
 | I usually stay in the city but I come back visiting every month | Tôi thường ở thành phố nhưng tôi về thăm mỗi tháng |
 | That person lives far from here | Người đó sống cách đây rất xa |
 | We can meet at that place near the park | Chúng ta có thể gặp nhau ở chỗ đó gần công viên |
+| My house is next to the park, not far from the city | Nhà tôi ở bên cạnh công viên, không xa thành phố |
+| My phone is inside the bag, under the book | Điện thoại của tôi ở trong túi, ở dưới cuốn sách |
+| I will be here — come and meet me | Tôi sẽ ở đây — đến gặp tôi nhé |

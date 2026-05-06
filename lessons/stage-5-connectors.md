@@ -30,6 +30,8 @@
 | Like / As | Như |
 | For / To | Cho |
 | Together / With | Cùng |
+| By / Using | Bằng |
+| Can / Okay / Possible | Được |
 
 ## Sentence Templates
 
@@ -49,6 +51,8 @@
 | Still | Vẫn |
 | For | Cho |
 | Together | Cùng |
+| By / Using | Bằng |
+| Can / Okay | Được |
 
 ### Tier 2 — Compound sentence using one connector
 
@@ -67,6 +71,11 @@
 | I am still studying | Tôi vẫn đang học |
 | I bought this for you | Tôi mua cái này cho bạn |
 | We go together | Chúng ta cùng đi |
+| I go by motorbike | Tôi đi bằng xe máy |
+| I write by hand | Tôi viết bằng tay |
+| Okay / That's fine | Được |
+| Can you come? | Bạn đến được không? |
+| I can do it | Tôi làm được |
 
 ### Tier 3 — Complex sentence with multiple connectors
 
@@ -81,3 +90,7 @@
 | If it is sunny tomorrow, I will go to the park with you | Nếu ngày mai trời nắng, tôi sẽ đi công viên với bạn |
 | I bought coffee for you because you helped me | Tôi mua cà phê cho bạn vì bạn đã giúp tôi |
 | If you go, we will all go together | Nếu bạn đi, chúng ta sẽ cùng đi |
+| I go to the airport by motorbike | Tôi đến sân bay bằng xe máy |
+| If you can come, I will be very happy | Nếu bạn đến được, tôi sẽ rất vui |
+| I want to go but I can't right now | Tôi muốn đi nhưng bây giờ tôi chưa đi được |
+| We can go together by motorbike | Chúng ta có thể cùng đi bằng xe máy |

@@ -64,6 +64,64 @@
 | Ill | Bị ốm |
 | Calm | Bình tĩnh |
 
+### Additional Weather
+| English | Vietnamese |
+|---|---|
+| It is raining | Trời mưa |
+| Rain | Mưa |
+| Weather | Thời tiết |
+
+### General Adjectives
+| English | Vietnamese |
+|---|---|
+| Busy | Bận |
+| Busy (emphatic) | Bận rộn |
+| Late | Muộn |
+| Happy (casual) | Vui |
+| Sad (simple) | Buồn |
+| Easy | Dễ |
+| Difficult | Khó |
+| Free / Available | Rảnh |
+| Rich | Giàu |
+| Poor | Nghèo |
+| Strong | Mạnh |
+| Weak | Yếu |
+| Full | Đầy |
+| Empty | Trống rỗng |
+| Polite | Lịch sự |
+| Rude | Thô lỗ |
+| Confident | Tự tin |
+| Shy | Nhút nhát |
+| Clean | Sạch sẽ |
+| Dirty | Bẩn |
+| Safe | An toàn |
+| Dangerous | Nguy hiểm |
+| Lucky | May mắn |
+| Unlucky | Xui xẻo |
+| Interesting | Thú vị |
+| Boring | Chán |
+| Big | To |
+| Small | Nhỏ |
+| Many / A lot | Nhiều |
+| Few / Little | Ít |
+| Long | Dài |
+| Short | Ngắn |
+| Far | Xa |
+| Expensive | Đắt |
+| Cheap | Rẻ |
+| Wide / Loose | Rộng |
+| Tight | Chật |
+| Tall / High | Cao |
+| Short / Low | Thấp |
+| Fat | Béo |
+| Thin / Slim | Gầy |
+| Fast | Nhanh |
+| Slow | Chậm |
+| New | Mới |
+| Old | Cũ |
+| Young | Trẻ |
+| Old (age) | Già |
+
 ## Sentence Templates
 
 ### Tier 1 — Single descriptor word
@@ -81,6 +139,35 @@
 | Autumn | Mùa thu |
 | Excited | Hào hứng |
 | Nervous | Hồi hộp |
+| Busy | Bận |
+| Free | Rảnh |
+| Easy | Dễ |
+| Difficult | Khó |
+| Happy (casual) | Vui |
+| Sad | Buồn |
+| Big | To |
+| Small | Nhỏ |
+| Fast | Nhanh |
+| Slow | Chậm |
+| New | Mới |
+| Old | Cũ |
+| Young | Trẻ |
+| Old (age) | Già |
+| Tall | Cao |
+| Short / Low | Thấp |
+| Expensive | Đắt |
+| Cheap | Rẻ |
+| Far | Xa |
+| Many | Nhiều |
+| Interesting | Thú vị |
+| Boring | Chán |
+| Safe | An toàn |
+| Dangerous | Nguy hiểm |
+| Lucky | May mắn |
+| Clean | Sạch sẽ |
+| Dirty | Bẩn |
+| Raining | Trời mưa |
+| Weather | Thời tiết |
 
 ### Tier 2 — Simple descriptive sentence
 
@@ -98,6 +185,27 @@
 | Today is cloudy | Hôm nay nhiều mây |
 | Summer is very hot | Mùa hè rất nóng |
 | She is wearing a white dress | Cô ấy mặc chiếc váy màu trắng |
+| I am very busy this week | Tuần này tôi rất bận |
+| I am free tonight | Tối nay tôi rảnh |
+| Vietnamese is difficult but interesting | Tiếng Việt khó nhưng thú vị |
+| This is easy | Cái này dễ |
+| I feel happy today | Hôm nay tôi cảm thấy vui |
+| I am a little sad | Tôi hơi buồn |
+| This table is very big | Cái bàn này rất to |
+| He runs fast | Anh ấy chạy nhanh |
+| She walks slowly | Cô ấy đi chậm |
+| My phone is new | Điện thoại của tôi mới |
+| That car is old | Chiếc xe đó cũ |
+| He is tall and strong | Anh ấy cao và mạnh |
+| She is young | Cô ấy trẻ |
+| This book is expensive | Cuốn sách này đắt |
+| That shirt is cheap | Cái áo đó rẻ |
+| This street is dangerous at night | Đường này nguy hiểm vào ban đêm |
+| This area is safe | Khu vực này an toàn |
+| I am lucky today | Hôm nay tôi may mắn |
+| The room is clean | Căn phòng sạch sẽ |
+| It is raining | Trời mưa |
+| The weather today is very good | Thời tiết hôm nay rất tốt |
 
 ### Tier 3 — Complex descriptive sentence
 
@@ -110,3 +218,13 @@
 | In summer Hanoi is very hot, about 40 degrees | Mùa hè Hà Nội rất nóng, khoảng bốn mươi độ |
 | Winter in Hanoi does not have snow but it is still very cold | Mùa đông ở Hà Nội không có tuyết rơi nhưng cũng rất lạnh |
 | She is wearing a red áo dài and walking outside | Cô ấy mặc áo dài màu đỏ và đi bộ ra ngoài |
+| Because Vietnamese is difficult, I study every day | Vì tiếng Việt khó, tôi học mỗi ngày |
+| I am busy this week but I will be free next week | Tuần này tôi bận nhưng tuần sau tôi sẽ rảnh |
+| He is young but very confident | Anh ấy trẻ nhưng rất tự tin |
+| The new phone is expensive but the old one is cheap | Điện thoại mới đắt nhưng điện thoại cũ rẻ |
+| If it is raining, I will not go out | Nếu trời mưa, tôi sẽ không ra ngoài |
+| I am happy because today I am lucky | Tôi vui vì hôm nay tôi may mắn |
+| The motorbike is fast but dangerous in the rain | Xe máy nhanh nhưng nguy hiểm khi trời mưa |
+| She is polite and confident | Cô ấy lịch sự và tự tin |
+| The airport is far from the city | Sân bay xa thành phố |
+| There are many interesting places in Vietnam | Có nhiều nơi thú vị ở Việt Nam |

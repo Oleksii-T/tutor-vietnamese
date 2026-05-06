@@ -53,6 +53,20 @@
 | Have | Có |
 | Usually | Thường |
 | Every time | Mỗi lần |
+| This month | Tháng này |
+| Last month | Tháng trước |
+| Next month | Tháng sau |
+| Week | Tuần |
+| Weekend | Cuối tuần |
+| This week | Tuần này |
+| Last week | Tuần trước |
+| Next week | Tuần sau |
+| This year | Năm này |
+| Last year | Năm trước |
+| Next year | Năm sau |
+| Today (informal) | Hôm nay |
+| Tonight | Tối nay |
+| For a long time | Lâu |
 
 ## Sentence Templates
 
@@ -74,6 +88,12 @@
 | Three o'clock | Ba giờ |
 | Usually | Thường |
 | Every time | Mỗi lần |
+| This month | Tháng này |
+| Last week | Tuần trước |
+| Next year | Năm sau |
+| Weekend | Cuối tuần |
+| Tonight | Tối nay |
+| For a long time | Lâu |
 
 ### Tier 2 — Simple sentence with time/number
 
@@ -91,6 +111,11 @@
 | I was born in March | Tôi sinh vào tháng Ba |
 | I usually wake up at seven | Tôi thường thức dậy vào lúc bảy giờ |
 | Every time I go, I buy something | Mỗi lần tôi đi, tôi mua gì đó |
+| This week I study a lot | Tuần này tôi học nhiều |
+| I am free this weekend | Cuối tuần này tôi rảnh |
+| Tonight I will meet my friend | Tối nay tôi sẽ gặp bạn |
+| Last year I was very busy | Năm trước tôi rất bận |
+| I haven't seen you for a long time | Lâu rồi tôi không gặp bạn |
 
 ### Tier 3 — Fuller sentence with multiple time/number elements
 
@@ -105,3 +130,13 @@
 | In November and December it is cold in Hanoi | Vào tháng Mười Một và tháng Mười Hai Hà Nội lạnh |
 | I usually go to the park on Sunday | Tôi thường đi công viên vào Chủ Nhật |
 | Every time I come here I buy ten books | Mỗi lần tôi đến đây tôi mua mười cuốn sách |
+| This month I go to Hanoi | Tháng này tôi đến Hà Nội |
+| Last month I was very busy | Tháng trước tôi rất bận |
+| Next week I will study | Tuần sau tôi sẽ học |
+| On the weekend I go to the park | Cuối tuần tôi đi công viên |
+| Tonight I will eat | Tối nay tôi sẽ ăn |
+| This week I work every day | Tuần này tôi làm việc mỗi ngày |
+| Last year I lived in the city | Năm trước tôi sống ở thành phố |
+| Next year I will go to Vietnam | Năm sau tôi sẽ đến Việt Nam |
+| Today I am happy | Hôm nay tôi vui |
+| We haven't met for a long time | Lâu rồi chúng ta không gặp nhau |

@@ -17,6 +17,7 @@
 | Present continuous marker (currently) | Đang |
 | Future marker (will) | Sẽ |
 | Already / completion particle | Rồi |
+| Not yet / Haven't yet | Chưa |
 
 ## Sentence Templates
 
@@ -35,6 +36,8 @@
 | I will meet you | Tôi sẽ gặp bạn |
 | I am sleeping | Tôi đang ngủ |
 | I have already finished | Tôi đã xong rồi |
+| Not yet | Chưa |
+| Haven't eaten yet | Chưa ăn |
 
 ### Tier 2 — Full sentence with tense marker
 
@@ -51,6 +54,10 @@
 | I already finished work | Tôi đã làm xong việc |
 | What are you eating? | Bạn đang ăn gì? |
 | Where will you go tomorrow? | Ngày mai bạn sẽ đi đâu? |
+| I haven't eaten yet | Tôi chưa ăn |
+| Have you eaten yet? | Bạn ăn chưa? |
+| I haven't finished yet | Tôi chưa xong |
+| I haven't gone yet | Tôi chưa đi |
 
 ### Tier 3 — Complex sentence with tense markers
 
@@ -62,3 +69,6 @@
 | I was driving when you called | Tôi đang lái xe khi bạn gọi |
 | She already understood what I said | Cô ấy đã hiểu những gì tôi nói |
 | Are you currently eating or have you already finished? | Bạn đang ăn hay bạn đã ăn xong rồi? |
+| I haven't gone yet — I will go next week | Tôi chưa đi — tôi sẽ đi tuần sau |
+| Have you finished studying yet? Not yet | Bạn học xong chưa? Chưa |
+| I haven't seen that movie yet but I want to | Tôi chưa xem phim đó nhưng tôi muốn xem |

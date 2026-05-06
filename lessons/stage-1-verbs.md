@@ -56,6 +56,8 @@
 | Book | Sách |
 | House | Nhà |
 | Live / Be alive | Sống |
+| See | Nhìn thấy |
+| Feel | Cảm thấy |
 
 ## Sentence Templates
 
@@ -76,6 +78,8 @@
 | Hungry | Đói |
 | Thirsty | Khát nước |
 | Water | Nước |
+| See | Nhìn thấy |
+| Feel | Cảm thấy |
 
 ### Tier 2 — Simple full sentence, one grammar pattern
 
@@ -96,6 +100,8 @@
 | We go | Chúng ta đi |
 | Nice to meet you | Rất vui được gặp bạn |
 | I live here | Tôi sống ở đây |
+| I see the house | Tôi nhìn thấy ngôi nhà |
+| I feel happy | Tôi cảm thấy vui |
 
 ### Tier 3 — Fuller sentence or context-rich phrase
 
@@ -112,3 +118,5 @@
 | I want to read this book | Tôi muốn đọc cuốn sách này |
 | You need to listen | Bạn cần nghe |
 | I want to live in Vietnam | Tôi muốn sống ở Việt Nam |
+| I see a beautiful bird | Tôi nhìn thấy con chim đẹp |
+| I feel happy when I study Vietnamese | Tôi cảm thấy vui khi học tiếng Việt |
